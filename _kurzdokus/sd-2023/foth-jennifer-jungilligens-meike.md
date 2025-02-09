@@ -30,7 +30,6 @@ gallery:
     - foth-jennifer-jungilligens-meike-m07-autoren-uebersicht.png
     - foth-jennifer-jungilligens-meike-m08-autorenprofil.png
     - foth-jennifer-jungilligens-meike-m09-homepage-side-menu-open.png
-styleguide: 
 ---
 
 Das diesjährige Screendesignprojekt dreht sich um die Entwicklung der Wissensplattform "ProjectSurvival4All". Ihr Ziel liegt darin, How-Tos und bewährte Methoden für die Projektarbeit zu sammeln und Studierende bei der Bewältigung ihrer Projekte zu unterstützen. Zudem trägt "ProjectSurvival4All" sogenannte Open Educational Resources bei: Die bereitgestellten Lehrinhalte können von Interessierten weiterverwendet werden.
